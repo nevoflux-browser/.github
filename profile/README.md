@@ -11,7 +11,6 @@ NevoFlux is an AI-native browser with intelligence built into the engine — not
 - 🔌 **16+ LLM Providers** — Claude, GPT, Gemini, DeepSeek, Qwen, local Ollama, and more
 - 🖥️ **70+ Automation APIs** — Browser control, screen capture, mouse & keyboard across web and OS
 - 🧩 **Canvas Micro Apps** — Generate dynamic apps with React, Vue, or Svelte on the fly
-- 🔗 **OpenClaw Integration** — 50+ service connectors for email, calendar, tasks, smart home
 - 🔒 **Privacy-First** — Open source, local-first, encrypted memory
 - 🦊 **Built on Firefox/Zen** — MPL-2.0 licensed, runs on Windows, macOS & Linux
 
